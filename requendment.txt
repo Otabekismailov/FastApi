@@ -1,0 +1,11 @@
+django==4.2.1
+django_environ==0.10.0
+psycopg2==2.9.6
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+drf-yasg==1.21.5
+Pillow==9.5.0
+dj-rest-auth==4.0.0
+django-allauth==0.54.0
+facebook-sdk==3.1.0
+django-filter==23.2

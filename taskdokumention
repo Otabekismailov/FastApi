@@ -1,0 +1,29 @@
+ Setup up backend app with django, postgresql and db models for news project
+ Blogs, blogs category, author, ... CRUD
+ Top blogs list API (last 20 blogs)
+ Blogs List with category
+ Filters, Searches, Orderings and Listings with paginations
+ Like & dislike API
+ Comments API
+ JWT authorization (email or username, password)
+ Google, Facebook authorization
+ Testing
+ Deployment
+ Link to repo & project
+
+
+ #uzbek
+
+
+ 1 Yangilik loyihasi uchun Django, postgresql va db modellari bilan backend ilovasini o'rnating
+ 2 Bloglar, bloglar toifasi, muallif, ... CRUD
+ Eng yaxshi bloglar roʻyxati API (oxirgi 20 ta blog)
+ Kategoriyali bloglar ro'yxati
+ Filtrlar, qidiruvlar, buyurtmalar va sahifalar bilan ro'yxatlar
+ API yoqadi va yoqmaydi
+ Sharhlar API
+ 3 JWT avtorizatsiyasi (elektron pochta yoki foydalanuvchi nomi, parol)
+ Google, Facebook avtorizatsiyasi
+ Sinov
+ Joylashtirish
+ Repo va loyihaga havola

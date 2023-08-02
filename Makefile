@@ -1,14 +1,2 @@
 help:
-	django-admin --help
-
-
-mig:
-	python3 manage.py makemigrations
-	python3 manage.py migrate
-
-
-ma:
-	python3 manage.py makemigrations
-
-mi:
-	python3 manage.py migrate
+	pip install -U edgeimpulse to update

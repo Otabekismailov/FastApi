@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Taskapi" uuid="80086d21-af8a-4487-af92-85078d2ddb89">
+    <data-source source="LOCAL" name="FastApi" uuid="0223029b-2c30-42dc-9701-ffbb4e363fdb">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/taskapi</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/fastapi</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

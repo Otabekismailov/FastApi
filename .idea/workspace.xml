@@ -4,17 +4,81 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34e4ba3-f4be-4cfd-b0f3-71ce97f8399c" name="Changes" comment="qq">
-      <change afterPath="$PROJECT_DIR$/.env-exmple" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requendment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskdokumention" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/facebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/utils.py" afterDir="false" />
+    <list default="true" id="f772f459-c2ee-41f4-bcb1-4862b747ebad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FastApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf to word/Output.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf to word/cv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf to word/Шаг_за_шагом.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf to word/Шаг_за_шагом.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf to word/времена_глаголов.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf to word/времена_глаголов.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/base_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operations/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operations/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operations/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env-exmple" beforeDir="false" afterPath="$PROJECT_DIR$/.env-exmple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TaskApi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80086d21-af8a-4487-af92-85078d2ddb89.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80086d21-af8a-4487-af92-85078d2ddb89/storage_v2/_src_/database/taskapi.dZpfpA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80086d21-af8a-4487-af92-85078d2ddb89/storage_v2/_src_/database/taskapi.dZpfpA/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80086d21-af8a-4487-af92-85078d2ddb89/storage_v2/_src_/database/taskapi.dZpfpA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80086d21-af8a-4487-af92-85078d2ddb89/storage_v2/_src_/database/taskapi.dZpfpA/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0002_alter_category_name_alter_category_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0003_alter_tag_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0004_post_liked.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0005_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0006_alter_post_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0007_alter_post_liked.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0008_alter_post_liked.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/0009_alter_post_liked.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/market/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/rasm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/video/2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requendment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requendment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskdokumention" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/facebook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +91,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FastAPI main" />
+        <option value="FastAPI test_main" />
         <option value="Python Script" />
       </list>
     </option>
@@ -37,17 +103,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2PEKJyheUA4a044HclQ7vemIEor" />
+  <component name="ProjectId" id="2QKXuF0NJDorQdfx7YZbLFG5JH7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/asus/PycharmProjects/TaskApi&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/allinsan&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,193 +132,114 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Django tests.Test: users.tests.TestUser.test_user_detail">
-    <configuration name="Test: blogs.tests.TestBlogs.test_user_list" type="DjangoTestsConfigurationType" temporary="true">
-      <module name="TaskApi" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FastApi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FastApi\pdf to word" />
+      <recent name="D:\FastApi\src\auth" />
+      <recent name="D:\FastApi\src" />
+      <recent name="D:\FastApi\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data (1)">
+    <configuration name="test_main | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FastApi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdf to word" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="blogs.tests.TestBlogs.test_user_list" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf to word/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test: users.tests.TestUser" type="DjangoTestsConfigurationType" temporary="true">
-      <module name="TaskApi" />
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FastApi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="users.tests.TestUser" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
+      <option name="SCRIPT_NAME" value="D:\FastApi\pdf to word\data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test: users.tests.TestUser.test_user_detail" type="DjangoTestsConfigurationType" temporary="true">
-      <module name="TaskApi" />
+    <configuration name="FastApi" type="Python.FastAPI">
+      <option name="file" value="$PROJECT_DIR$/main.py" />
+      <module name="FastApi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="users.tests.TestUser.test_user_detail" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test: users.tests.TestUser.test_user_list" type="DjangoTestsConfigurationType" temporary="true">
-      <module name="TaskApi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="users.tests.TestUser.test_user_list" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test: users.tests.TestUser.test_user_register" type="DjangoTestsConfigurationType" temporary="true">
-      <module name="TaskApi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="users.tests.TestUser.test_user_register" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TaskApi" type="Python.DjangoServer" factoryName="Django server">
-      <module name="TaskApi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Django tests.Test: users.tests.TestUser.test_user_detail" />
-        <item itemvalue="Django tests.Test: users.tests.TestUser.test_user_list" />
-        <item itemvalue="Django tests.Test: users.tests.TestUser.test_user_register" />
-        <item itemvalue="Django tests.Test: users.tests.TestUser" />
-        <item itemvalue="Django tests.Test: blogs.tests.TestBlogs.test_user_list" />
+        <item itemvalue="Python.data (1)" />
+        <item itemvalue="Python.data" />
+        <item itemvalue="HTTP Request.test_main | #1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b34e4ba3-f4be-4cfd-b0f3-71ce97f8399c" name="Changes" comment="" />
-      <created>1683016733002</created>
+      <changelist id="f772f459-c2ee-41f4-bcb1-4862b747ebad" name="Changes" comment="" />
+      <created>1685103467478</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683016733002</updated>
-      <workItem from="1683016734013" duration="8900000" />
-      <workItem from="1683027473401" duration="920000" />
-      <workItem from="1683105786940" duration="416000" />
-      <workItem from="1683107875786" duration="3473000" />
-      <workItem from="1683135074376" duration="646000" />
-      <workItem from="1683221388226" duration="5133000" />
-      <workItem from="1683281499262" duration="130000" />
-      <workItem from="1683819592199" duration="10954000" />
-      <workItem from="1683917314092" duration="13817000" />
-      <workItem from="1683991905554" duration="40630000" />
-      <workItem from="1684139927915" duration="4366000" />
-      <workItem from="1684144388925" duration="124000" />
-      <workItem from="1684144513818" duration="7543000" />
-      <workItem from="1684172577790" duration="1960000" />
-      <workItem from="1684227139711" duration="1664000" />
-      <workItem from="1684230032970" duration="7287000" />
-      <workItem from="1684323186675" duration="643000" />
+      <updated>1685103467478</updated>
+      <workItem from="1685103495087" duration="2486000" />
+      <workItem from="1685816855810" duration="3010000" />
+      <workItem from="1685893212053" duration="54201000" />
+      <workItem from="1686389234882" duration="1176000" />
+      <workItem from="1686579697742" duration="1314000" />
+      <workItem from="1686600163616" duration="2605000" />
+      <workItem from="1686758989383" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/users/tests.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TaskApi$Test__blogs_tests_TestBlogs.coverage" NAME="Test: blogs.tests.TestBlogs Coverage Results" MODIFIED="1684145580996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__users_tests_TestUser_test_user_register.coverage" NAME="Test: users.tests.TestUser.test_user_register Coverage Results" MODIFIED="1684240724042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__account_tests_TestUser.coverage" NAME="Test: account.tests.TestUser Coverage Results" MODIFIED="1683993154655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__blogs_tests_TestBlogs_test_user_list.coverage" NAME="Test: blogs.tests.TestBlogs.test_user_list Coverage Results" MODIFIED="1684149707941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__users_tests_TestUser.coverage" NAME="Test: users.tests.TestUser Coverage Results" MODIFIED="1684239652786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1683228076079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__account_tests_TestUser_test_user_list.coverage" NAME="Test: account.tests.TestUser.test_user_list Coverage Results" MODIFIED="1683992530120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__blogs_tests_TestnBlogs.coverage" NAME="Test: blogs.tests.TestnBlogs Coverage Results" MODIFIED="1683993373378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__users_tests_TestUser_test_user_detail.coverage" NAME="Test: users.tests.TestUser.test_user_detail Coverage Results" MODIFIED="1684240791112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/TaskApi$views.coverage" NAME="views Coverage Results" MODIFIED="1684021443628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
-    <SUITE FILE_PATH="coverage/TaskApi$Test__users_tests_TestUser_test_user_list.coverage" NAME="Test: users.tests.TestUser.test_user_list Coverage Results" MODIFIED="1684240784012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FastApi$data.coverage" NAME="data Coverage Results" MODIFIED="1686601081191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FastApi$FastApi.coverage" NAME="FastApi Coverage Results" MODIFIED="1685970565973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FastApi$data__1_.coverage" NAME="data (1) Coverage Results" MODIFIED="1686602448403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdf to word" />
   </component>
 </project>
